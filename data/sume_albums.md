@@ -14,7 +14,13 @@ https://www.dailymotion.com/video/x8mhnx7
 ## Albums
 
 ### 1. album
+Title: "Sumut"
+Year: 1973
+
 Greenlandic rock band founded in 1972 by Malik Høegh and Per Berthelsen (both vocals and guitar) in Sorø, Denmark, where the founding members studied. Their 1973 debut Sumut was the first rock album in the Greenlandic language and breaking the waves for Greenlandic political rock. In 1977 they released the first album by the first Greenlandic label Ulo - and disbanded the same year. Since then the band has frequently rejoined to perform and in 1994 they released a new album, Persersume, the 100th album release on Ulo. October 2014 saw the release of a documentary retracing the history of the band: "Sume - lyden af en revolution".
+
+
+(Guess the "vinyl" 5 tracks on side A and 6 tracks on side B)
 
 01. Pivfît Nutât / Nye Tider 3:23
 02. Upernâĸ / Forår 3:14
@@ -47,6 +53,9 @@ Vocals, Twelve-String Guitar – Malik Høegh
 
 
 ### 2. album
+Title: "Sume"
+Year: 1974
+
 A1 Kiisa Puigulertorpagit! / Omsider Kan Jeg Glemme Dig! 4:00
 A2 Avijaaja Ila! / Avijaaja Ila! 4:12
 A3 Aasarisseruttoraa / Højsommer 4:32
@@ -73,6 +82,9 @@ Vocals, Twelve-String Guitar – Malik Høegh
 
 
 ### 3. album
+Title: "Sume 3"
+year: 1977
+
 A1 Púke / Puk
 Written-By – Kâle*
 4:25
