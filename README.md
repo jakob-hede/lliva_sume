@@ -1,2 +1,2 @@
-# lliva_sume
+# liva_sume
 Livas greenland sume project
