@@ -1,0 +1,185 @@
+info/liva.note
+
+----------------------------------------------------------------
+
+Sume - Sumut - 1973 - (Full  Album)
+Sume.Sumut.1973.Full.Album
+----------------------------------------------------------------
+
+ffmpeg -i 1.Sume.Sumut.1973.Full.Album.mp4 -vn -codec:a libmp3lame -qscale:a 2 1.Sume.Sumut.1973.Full.Album.mp3
+
+----------------------------------------------------------------
+
+https://drive.google.com/drive/folders/1JMUswM6I8CH2RQ7jaA3T-pOPWLfc9-BR?usp=sharing
+
+
+----------------------------------------------------------------
+
+
+1. album:
+https://www.youtube.com/watch?v=XWZVSdIy20Q
+https://www.dailymotion.com/video/x8ku5g8
+
+2. album:
+https://www.dailymotion.com/video/x8md1k0
+
+3. album:
+https://www.dailymotion.com/video/x8mhnx7
+
+Moises:
+https://studio.moises.ai/player2/aac142b0-cbb4-4123-877a-7a86d3fa06c4/?context=spliter
+
+
+----------------------------------------------------------------
+2. album:
+
+Inuit Nunaat Rock 1974
+
+2.Inuit_Nunaat_Rock.1974
+----------------------------------------------------------------
+3. album:
+https://www.dailymotion.com/video/x8mhnx7
+
+Sume Rock, Psychedelic Rock, Prog Rock 1977
+
+3.Rock_
+
+
+A1 Púke / Puk
+Written-By – Kâle*
+4:25
+A2 Ikíngutingâ / Min Ven (Der Er Ikke Længere Brug For Dig)
+Written-By – Kâle*
+3:10
+A3 Inûneĸ / Livet
+Written-By – Kâle*
+5:13
+A4 Sume / Hvor?
+Written-By – Mailk*, Pêre*
+3:28
+A5 Sisimiut / Sisimiut
+Written-By – Kâle*
+3:29
+B1 Kalâliuvunga / Jeg - Grønlænder
+Written-By – Egon Sikivat, Sume
+5:50
+B2 K'augdloringme Igdlinersiorata / Nye Spor I Det Lyse
+Written-By – Malik*, Pêre*
+3:00
+B3 K'anoĸ Inûguvit / Hvordan Du End Lever
+Written-By – Kâle*, Malik*
+2:37
+B4 Sikorngâ / Drivis
+Written-By – Arĸaluk Høegh Bendtsen*, Malik*, Pêre*
+4:03
+B5 Nunaĸarfît Náparĸigdlugit / Genrejse
+Written-By – Kâle*, Malik*
+4:34
+
+
+----------------------------------------------------------------
+
+The Greenlandic band Sume (active primarily in the 1970s) released the following albums:
+
+Sumut (1973) — The title means "Where to?" in Greenlandic. This was their debut album and historically significant as the first rock album sung in Greenlandic.
+
+Sume (1974) — Self-titled second album.
+
+Sume 3 (1977) — Their third album, often simply referred to as Sume 3.
+
+Sume 4 (1979) — Their fourth and final album from their original run.
+
+
+----------------------------------------------------------------
+
+A1 Kiisa Puigulertorpagit! / Omsider Kan Jeg Glemme Dig! 4:00
+A2 Avijaaja Ila! / Avijaaja Ila! 4:12
+A3 Aasarisseruttoraa / Højsommer 4:32
+A4 Qullissat / Qullissat 5:50
+B1 Takornartaq / Den Fremmede 3:33
+B2 Naluvara Ilisimaneraa / Måske Ved Hun Det Ikke 3:00
+B3 Nukappiaraq / Drengen 3:00
+B4 Inuit Nunaat / Menneskenes Lande 4:47
+B5 Sulutit / Dine Vinger 3:45
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
