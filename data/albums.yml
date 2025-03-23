@@ -5,26 +5,26 @@ albums:
     tracks:
       - 01:
           title:
-            greenlandic: "Pivfît Nutât"
+            greenlandic: "Pivf\xEEt Nut\xE2t"
             danish: "Nye Tider"
           duration: "3:23"
           vinyl: "A1"
       - 02:
           title:
-            greenlandic: "Upernât"
-            danish: "Forår"
+            greenlandic: "Upern\xE2\u0138"
+            danish: "For\xE5r"
           duration: "3:14"
           vinyl: "A2"
       - 03:
           title:
-            greenlandic: "Pilerineñ-Tikíneñ"
+            greenlandic: "Pilerine\u0138-Tikíne\u0138"
             danish: "Forventning-Ankomst"
           duration: "5:25"
           vinyl: "A3"
       - 04:
           title:
-            greenlandic: "Tamorassâriat"
-            danish: "Den Første Bid Af Sælen"
+            greenlandic: "Tamorass\xE2riat"
+            danish: "Den F\xF8rste Bid Af S\xE6len"
           duration: "1:38"
           vinyl: "A4"
       - 05:
@@ -35,246 +35,214 @@ albums:
           vinyl: "A5"
       - 06:
           title:
-            greenlandic: "Erñigsineñ Sapĩnarama"
+            greenlandic: "Er\u0138igsine\u0138 Sap\u0129narama"
             danish: "Uro"
           duration: "3:10"
           vinyl: "B1"
       - 07:
           title:
-            greenlandic: "Erñasûteñarneñ"
+            greenlandic: "Er\u0138as\xFBte\u0138arne\u0138"
             danish: "Bekymring"
           duration: "2:41"
           vinyl: "B2"
       - 08:
           title:
-            greenlandic: "Heimaey Erñaivdlugo"
+            greenlandic: "Heimaey Er\u0138aivdlugo"
             danish: "Ode Til Heimaey"
           duration: "4:32"
           vinyl: "B3"
       - 09:
           title:
-            greenlandic: "Imigagssañ"
+            greenlandic: "Imigagssa\u0138"
             danish: "Ildvand"
           duration: "4:39"
           vinyl: "B4"
       - 10:
           title:
-            greenlandic: "Ukiañ"
-            danish: "Efterår"
+            greenlandic: "Ukia\u0138"
+            danish: "Efter\xE5r"
           duration: "5:05"
           vinyl: "B5"
       - 11:
           title:
-            greenlandic: "Nalunaerasuartaut Toñuvoñ"
-            danish: "Telegrafen Er Død"
+            greenlandic: "Nalunaerasuartaut To\u0138uvo\u0138"
+            danish: "Telegrafen Er D\xF8d"
           duration: "3:37"
           vinyl: "B6"
     crew:
-      - "Ole Høst":
-          "Alto Saxophone"
-      - "Erik Hammeken":
-          "Bass"
-      - "Henrik Anthony":
-          "Bass"
-      - "Hans Fleischer":
-          "Drums"
-      - "Anders Peter Novrman":
-          "Electric Guitar"
-      - "Freddy Hansson":
-          "Engineer"
-      - "Jørgen Lang":
-          "Harmonica"
-      - "Mikael Hansen":
-          "Layout"
-      - "Malik":
-          "Lyrics By"
-      - "Thor Backhausen":
-          "Organ, Flute"
-      - "Karsten Sommer":
-          "Producer"
-      - "Kaj D. Holm":
-          "Violin"
-      - "Per Berthelsen":
-          "Vocals, Acoustic Guitar, Electric Guitar"
-      - "Malik Høegh":
-          "Vocals, Twelve-String Guitar"
-    description:
-      "Greenlandic rock band founded in 1972 by Malik Høegh and Per Berthelsen (both vocals and guitar) in Sorø, Denmark, where the founding members studied. Their 1973 debut Sumut was the first rock album in the Greenlandic language and breaking the waves for Greenlandic political rock. In 1977 they released the first album by the first Greenlandic label Ulo - and disbanded the same year. Since then the band has frequently rejoined to perform and in 1994 they released a new album, Persersume, the 100th album release on Ulo. October 2014 saw the release of a documentary retracing the history of the band: \"Sume - lyden af en revolution\"."
-
+      - "Ole H\xF8st": "Alto Saxophone"
+      - "P.V. Rasmussen": "Artwork [Backside]"
+      - "Aron (11)": "Artwork [Woodcut Front Cover]"
+      - "Erik Hammeken, Henrik Anthony (tracks: A2, A5)": "Bass"
+      - "Hans Fleischer": "Drums"
+      - "Anders Peter Novrman": "Electric Guitar"
+      - "Freddy Hansson": "Engineer"
+      - "J\xF8rgen Lang": "Harmonica [Mundharpe]"
+      - "Mikael Hansen (2)": "Layout [Cover]"
+      - "Malik*": "Lyrics By"
+      - "Malik* (tracks: A1 to B1, B4, B5), Per* (tracks: B3), Sume (tracks: B2), Ungak (tracks: B3)": "Music By"
+      - "Thor Backhausen": "Organ, Flute"
+      - "Karsten Sommer": "Producer"
+      - "Kaj D. Holm": "Violin"
+      - "Per Berthelsen": "Vocals, Acoustic Guitar, Electric Guitar"
+      - "Malik H\xF8egh": "Vocals, Twelve-String Guitar"
+    description: "Greenlandic rock band founded in 1972 by Malik H\xF8egh and Per Berthelsen (both vocals and guitar) in Sor\xF8, Denmark, where the founding members studied. Their 1973 debut Sumut was the first rock album in the Greenlandic language and breaking the waves for Greenlandic political rock. In 1977 they released the first album by the first Greenlandic label Ulo - and disbanded the same year. Since then the band has frequently rejoined to perform and in 1994 they released a new album, Persersume, the 100th album release on Ulo. October 2014 saw the release of a documentary retracing the history of the band: \"Sume - lyden af en revolution\"."
   02:
     title: "Sume"
     year: 1974
     tracks:
-      - 01:
+      - A1:
           title:
             greenlandic: "Kiisa Puigulertorpagit!"
-            danish: "Omsider Kan Jeg Glemme Dig!"
+            danish: "Omsider kan jeg glemme dig!"
           duration: "4:00"
           vinyl: "A1"
-      - 02:
+      - A2:
           title:
             greenlandic: "Avijaaja Ila!"
             danish: "Avijaaja Ila!"
           duration: "4:12"
           vinyl: "A2"
-      - 03:
+      - A3:
           title:
             greenlandic: "Aasarisseruttoraa"
-            danish: "Højsommer"
+            danish: "H\xF8jsommer"
           duration: "4:32"
           vinyl: "A3"
-      - 04:
+      - A4:
           title:
             greenlandic: "Qullissat"
             danish: "Qullissat"
           duration: "5:50"
           vinyl: "A4"
-      - 05:
+      - B1:
           title:
             greenlandic: "Takornartaq"
             danish: "Den Fremmede"
           duration: "3:33"
           vinyl: "B1"
-      - 06:
+      - B2:
           title:
             greenlandic: "Naluvara Ilisimaneraa"
-            danish: "Måske Ved Hun Det Ikke"
+            danish: "M\xE5ske Ved Hun Det Ikke"
           duration: "3:00"
           vinyl: "B2"
-      - 07:
+      - B3:
           title:
             greenlandic: "Nukappiaraq"
             danish: "Drengen"
           duration: "3:00"
           vinyl: "B3"
-      - 08:
+      - B4:
           title:
             greenlandic: "Inuit Nunaat"
             danish: "Menneskenes Lande"
           duration: "4:47"
           vinyl: "B4"
-      - 09:
+      - B5:
           title:
             greenlandic: "Sulutit"
             danish: "Dine Vinger"
           duration: "3:45"
           vinyl: "B5"
     crew:
-      - "Emil Larsen":
-          "Bass, Vocals"
-      - "Grønlænderkoret Mik":
-          "Choir"
-      - "Aka Høegh":
-          "Cover"
-      - "Hjalmar Dahl":
-          "Drums, Percussion"
-      - "Freddy Hansson":
-          "Engineer"
-      - "Malik":
-          "Lyrics By, Music By"
-      - "Erik Hammeken":
-          "Music By"
-      - "Per Berthelsen":
-          "Music By"
-      - "Avât-Johan Kleist":
-          "Organ, Piano, Arranged By [Choir]"
-      - "Susanne Mertz":
-          "Photography By"
-      - "Karsten Sommer":
-          "Producer"
-      - "Franz Beckerlee":
-          "Synthesizer [Moog]"
-      - "Per Berthelsen":
-          "Vocals, Acoustic Guitar"
-      - "Malik Høegh":
-          "Vocals, Twelve-String Guitar"
-    description: "Recorded at Rosenberg Studio."
-
+      - "Emil Larsen": "Bass, Vocals"
+      - "Gr\xF8nl\xE6nderkoret Mik* (tracks: B5)": "Choir"
+      - "Aka H\xF8egh": "Cover"
+      - "Hjalmar Dahl": "Drums, Percussion"
+      - "Freddy Hansson": "Engineer"
+      - "Malik*": "Lyrics By, Music By"
+      - "Erik Hammeken (tracks: A2), Per Berthelsen": "Music By"
+      - "Av\xE2t-Johan Kleist (tracks: B5)": "Organ, Piano, Arranged By [Choir]"
+      - "Susanne Mertz": "Photography By"
+      - "Karsten Sommer": "Producer"
+      - "Franz Beckerlee (tracks: A3)": "Synthesizer [Moog]"
+      - "Per Berthelsen": "Vocals, Acoustic Guitar"
+      - "Malik H\xF8egh": "Vocals, Twelve-String Guitar"
+    description: ""
   03:
     title: "Sume 3"
     year: 1977
     tracks:
-      - 01:
+      - A1:
           title:
-            greenlandic: "Púke"
+            greenlandic: "P\xFAke"
             danish: "Puk"
           duration: "4:25"
           vinyl: "A1"
-      - 02:
+          notes: "Written-By K\xE2le*"
+      - A2:
           title:
-            greenlandic: "Ikíngutingâ"
-            danish: "Min Ven (Der Er Ikke Længere Brug For Dig)"
+            greenlandic: "Ik\xEDnguting\xE2"
+            danish: "Min Ven (Der Er Ikke L\xE6ngere Brug For Dig)"
           duration: "3:10"
           vinyl: "A2"
-      - 03:
+          notes: "Written-By K\xE2le*"
+      - A3:
           title:
-            greenlandic: "Inûneñ"
+            greenlandic: "In\xFBne\u0138"
             danish: "Livet"
           duration: "5:13"
           vinyl: "A3"
-      - 04:
+          notes: "Written-By K\xE2le*"
+      - A4:
           title:
             greenlandic: "Sume"
             danish: "Hvor?"
           duration: "3:28"
           vinyl: "A4"
-      - 05:
+          notes: "Written-By Mailk*, Pêre*"
+      - A5:
           title:
             greenlandic: "Sisimiut"
             danish: "Sisimiut"
           duration: "3:29"
           vinyl: "A5"
-      - 06:
+          notes: "Written-By K\xE2le*"
+      - B1:
           title:
-            greenlandic: "Kalâliuvunga"
-            danish: "Jeg - Grønlænder"
+            greenlandic: "Kal\xE2liuvunga"
+            danish: "Jeg - Gr\xF8nl\xE6nder"
           duration: "5:50"
           vinyl: "B1"
-      - 07:
+          notes: "Written-By Egon Sikivat, Sume"
+      - B2:
           title:
             greenlandic: "K'augdloringme Igdlinersiorata"
             danish: "Nye Spor I Det Lyse"
           duration: "3:00"
           vinyl: "B2"
-      - 08:
+          notes: "Written-By Malik*, Pêre*"
+      - B3:
           title:
-            greenlandic: "K'anoñ Inûguvit"
-            danish: "Hvordan Du End Lever"
+            greenlandic: "K'ano\u0138 In\xFBguvit"
+            danish: "Hvordan du end lever"
           duration: "2:37"
           vinyl: "B3"
-      - 09:
+          notes: "Written-By K\xE2le*, Malik*"
+      - B4:
           title:
-            greenlandic: "Sikorngâ"
+            greenlandic: "Sikorng\xE2"
             danish: "Drivis"
           duration: "4:03"
           vinyl: "B4"
-      - 10:
+          notes: "Written-By Ar\u0138aluk H\xF8egh Bendtsen*, Malik*, Pêre*"
+      - B5:
           title:
-            greenlandic: "Nunañarfît Nâparñigdlugit"
+            greenlandic: "Nuna\u0138arf\xEEt N\xE1par\u0138igdlugit"
             danish: "Genrejse"
           duration: "4:34"
           vinyl: "B5"
+          notes: "Written-By K\xE2le*, Malik*"
     crew:
-      - "Malik Høegh":
-          "12-String Acoustic Guitar, Electric Guitar, Vocals"
-      - "Karl Sivertsen":
-          "Acoustic Guitar, Electric Guitar, Vocals"
-      - "Per Berthelsen":
-          "Acoustic Guitar, Electric Guitar, Vocals"
-      - "Niels Davidsen":
-          "Artwork"
-      - "Emil Larsen":
-          "Bass, Vocals"
-      - "Hans Fleischer":
-          "Drums"
-      - "Stig Kreutzfeldt":
-          "Engineer"
-      - "Jørgen Sparre":
-          "Layout"
-      - "Nikolaj Steenstrup":
-          "Mellotron, Percussion"
-      - "Sakio Nielsen":
-          "Organ, Grand Piano"
-      - "Karsten Sommer":
-          "Producer"
-    description: "Recorded at Sweet Silence Studios."
+      - "Malik H\xF8egh": "12-String Acoustic Guitar, Electric Guitar, Vocals"
+      - "Karl Sivertsen, Per Berthelsen": "Acoustic Guitar, Electric Guitar, Vocals"
+      - "Niels Davidsen": "Artwork [Front Drawing]"
+      - "Emil Larsen": "Bass, Vocals"
+      - "Hans Fleischer": "Drums"
+      - "Stig Kreutzfeldt": "Engineer"
+      - "J\xF8rgen Sparre": "Layout"
+      - "Nikolaj Steenstrup": "Mellotron, Percussion"
+      - "Sakio Nielsen": "Organ, Grand Piano"
+      - "Karsten Sommer": "Producer"
+    description: ""
