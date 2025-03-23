@@ -9,6 +9,7 @@ albums:
             danish: "Nye Tider"
           duration: "3:23"
           vinyl: "A1"
+          notes: "Written-By Sume?"
     crew:
       - "Ole H\xF8st":
           "Alto Saxophone"
