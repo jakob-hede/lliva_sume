@@ -133,29 +133,3 @@ Producer – Karsten Sommer
 
 
 
-
----
-
-```yaml
-albums:
-  01:
-    title: "Sumut"
-    year: 1972
-    tracks:
-      - "Speak to Me"
-    crew:
-      - "Ole Høst":
-          "Alto Saxophone"
-
-
-
-
-```
-
----
-
-Written-By Sume?
-
-
-
-

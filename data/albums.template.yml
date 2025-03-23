@@ -1,0 +1,25 @@
+albums:
+  01:
+    title: "Sumut"
+    year: 1973
+    tracks:
+      - 01:
+          title:
+            greenlandic: "Pivf\xEEt Nut\xE2t"
+            danish: "Nye Tider"
+          duration: "3:23"
+          vinyl: "A1"
+          notes: "Written-By Sume?"
+    crew:
+      - "Ole H\xF8st":
+          "Alto Saxophone"
+    description:
+      "Greenlandic rock band founded in 1972 by Malik H\xF8egh and Per Berthelsen (both\
+        \ vocals and guitar) in Sor\xF8, Denmark, where the founding members studied. Their\
+        \ 1973 debut Sumut was the first rock album in the Greenlandic language and breaking\
+        \ the waves for Greenlandic political rock. In 1977 they released the first album\
+        \ by the first Greenlandic label Ulo - and disbanded the same year. Since then the\
+        \ band has frequently rejoined to perform and in 1994 they released a new album,\
+        \ Persersume, the 100th album release on Ulo. October 2014 saw the release of a\
+        \ documentary retracing the history of the band: \"Sume - lyden af en revolution\"\
+        ."
