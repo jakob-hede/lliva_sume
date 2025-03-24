@@ -1,0 +1,277 @@
+"albums":
+  1:
+    "title": "Sumut"
+    "year": 1973
+    "description": "Greenlandic rock band founded in 1972 by Malik H\xF8egh and Per\
+      \ Berthelsen (both vocals and guitar) in Sor\xF8, Denmark, where the founding\
+      \ members studied. Their 1973 debut Sumut was the first rock album in the Greenlandic\
+      \ language and breaking the waves for Greenlandic political rock. In 1977 they\
+      \ released the first album by the first Greenlandic label Ulo - and disbanded\
+      \ the same year. Since then the band has frequently rejoined to perform and\
+      \ in 1994 they released a new album, Persersume, the 100th album release on\
+      \ Ulo. October 2014 saw the release of a documentary retracing the history of\
+      \ the band: \"Sume - lyden af en revolution\"."
+    "tracks":
+      0:
+        "vinyl": "A1"
+        "duration": "3:23"
+        "title":
+          "greenlandic": "Pivf\xEEt Nut\xE2t"
+          "danish": "Nye Tider"
+        "notes": ""
+      1:
+        "vinyl": "A2"
+        "duration": "3:14"
+        "title":
+          "greenlandic": "Upern\xE2\u0138"
+          "danish": "For\xE5r"
+        "notes": ""
+      2:
+        "vinyl": "A3"
+        "duration": "5:25"
+        "title":
+          "greenlandic": "Pilerine\u0138-Tik\xEDne\u0138"
+          "danish": "Forventning-Ankomst"
+        "notes": ""
+      3:
+        "vinyl": "A4"
+        "duration": "1:38"
+        "title":
+          "greenlandic": "Tamorass\xE2riat"
+          "danish": "Den F\xF8rste Bid Af S\xE6len"
+        "notes": ""
+      4:
+        "vinyl": "A5"
+        "duration": "3:04"
+        "title":
+          "greenlandic": "Ilivnut Pulavdlunga"
+          "danish": "Kravle Ind I Mit Indre"
+        "notes": ""
+      5:
+        "vinyl": "A6"
+        "duration": "3:10"
+        "title":
+          "greenlandic": "Er\u0138igsine\u0138 Sap\u0129narama"
+          "danish": "Uro"
+        "notes": ""
+      6:
+        "vinyl": "B1"
+        "duration": "2:41"
+        "title":
+          "greenlandic": "Er\u0138as\xFBte\u0138arne\u0138"
+          "danish": "Bekymring"
+        "notes": ""
+      7:
+        "vinyl": "B1"
+        "duration": "4:32"
+        "title":
+          "greenlandic": "Heimaey Er\u0138aivdlugo"
+          "danish": "Ode Til Heimaey"
+        "notes": ""
+      8:
+        "vinyl": "B3"
+        "duration": "4:39"
+        "title":
+          "greenlandic": "Imigagssa\u0138"
+          "danish": "Ildvand"
+        "notes": ""
+      9:
+        "vinyl": "B4"
+        "duration": "5:05"
+        "title":
+          "greenlandic": "Ukia\u0138"
+          "danish": "Efter\xE5r"
+        "notes": ""
+      10:
+        "vinyl": "B5"
+        "duration": "3:37"
+        "title":
+          "greenlandic": "Nalunaerasuartaut To\u0138uvo\u0138"
+          "danish": "Telegrafen Er D\xF8d"
+        "notes": ""
+    "crew":
+    - "Ole H\xF8st": "Alto Saxophone"
+    - "P.V. Rasmussen": "Artwork [Backside]"
+    - "Aron (11)": "Artwork [Woodcut Front Cover]"
+    - "Erik Hammeken, Henrik Anthony (tracks: A2, A5)": "Bass"
+    - "Hans Fleischer": "Drums"
+    - "Anders Peter Novrman": "Electric Guitar"
+    - "Freddy Hansson": "Engineer"
+    - "J\xF8rgen Lang": "Harmonica [Mundharpe]"
+    - "Mikael Hansen (2)": "Layout [Cover]"
+    - "Malik*": "Lyrics By"
+    - "Malik* (tracks: A1 to B1, B4, B5), Per* (tracks: B3), Sume (tracks: B2), Ungak (tracks: B3)": "Music\
+        \ By"
+    - "Thor Backhausen": "Organ, Flute"
+    - "Karsten Sommer": "Producer"
+    - "Kaj D. Holm": "Violin"
+    - "Per Berthelsen": "Vocals, Acoustic Guitar, Electric Guitar"
+    - "Malik H\xF8egh": "Vocals, Twelve-String Guitar"
+  2:
+    "title": "Sume"
+    "year": 1974
+    "description": "Recorded At: Rosenberg Studio"
+    "tracks":
+      0:
+        "vinyl": "A1"
+        "duration": "4:00"
+        "title":
+          "greenlandic": "Kiisa Puigulertorpagit!"
+          "danish": "Omsider kan jeg glemme dig!"
+        "notes": ""
+      1:
+        "vinyl": "A2"
+        "duration": "4:12"
+        "title":
+          "greenlandic": "Avijaaja Ila!"
+          "danish": "Avijaaja Ila!"
+        "notes": ""
+      2:
+        "vinyl": "A3"
+        "duration": "4:32"
+        "title":
+          "greenlandic": "Aasarisseruttoraa"
+          "danish": "H\xF8jsommer"
+        "notes": ""
+      3:
+        "vinyl": "A4"
+        "duration": "5:50"
+        "title":
+          "greenlandic": "Qullissat"
+          "danish": "Qullissat"
+        "notes": ""
+      4:
+        "vinyl": "B1"
+        "duration": "3:33"
+        "title":
+          "greenlandic": "Takornartaq"
+          "danish": "Den Fremmede"
+        "notes": ""
+      5:
+        "vinyl": "B2"
+        "duration": "3:00"
+        "title":
+          "greenlandic": "Naluvara Ilisimaneraa"
+          "danish": "M\xE5ske Ved Hun Det Ikke"
+        "notes": ""
+      6:
+        "vinyl": "B3"
+        "duration": "3:00"
+        "title":
+          "greenlandic": "Nukappiaraq"
+          "danish": "Drengen"
+        "notes": ""
+      7:
+        "vinyl": "B4"
+        "duration": "4:47"
+        "title":
+          "greenlandic": "Inuit Nunaat"
+          "danish": "Menneskenes Lande"
+        "notes": ""
+      8:
+        "vinyl": "B5"
+        "duration": "3:45"
+        "title":
+          "greenlandic": "Sulutit"
+          "danish": "Dine Vinger"
+        "notes": ""
+    "crew":
+    - "Emil Larsen": "Bass, Vocals"
+    - "Gr\xF8nl\xE6nderkoret Mik* (tracks: B5)": "Choir"
+    - "Aka H\xF8egh": "Cover"
+    - "Hjalmar Dahl": "Drums, Percussion"
+    - "Freddy Hansson": "Engineer"
+    - "Malik*": "Lyrics By, Music By"
+    - "Erik Hammeken (tracks: A2), Per Berthelsen": "Music By"
+    - "Av\xE2t-Johan Kleist (tracks: B5)": "Organ, Piano, Arranged By [Choir]"
+    - "Susanne Mertz": "Photography By"
+    - "Karsten Sommer": "Producer"
+    - "Franz Beckerlee (tracks: A3)": "Synthesizer [Moog]"
+    - "Per Berthelsen": "Vocals, Acoustic Guitar"
+    - "Malik H\xF8egh": "Vocals, Twelve-String Guitar"
+  3:
+    "title": "Sume 3"
+    "year": 1977
+    "description": "Recorded At: Sweet Silence Studios"
+    "tracks":
+      0:
+        "vinyl": "A1"
+        "duration": "4:25"
+        "title":
+          "greenlandic": "P\xFAke"
+          "danish": "Puk"
+        "notes": "Written-By K\xE2le*"
+      1:
+        "vinyl": "A2"
+        "duration": "3:10"
+        "title":
+          "greenlandic": "Ik\xEDnguting\xE2"
+          "danish": "Min Ven (Der Er Ikke L\xE6ngere Brug For Dig)"
+        "notes": "Written-By K\xE2le*"
+      2:
+        "vinyl": "A3"
+        "duration": "5:13"
+        "title":
+          "greenlandic": "In\xFBne\u0138"
+          "danish": "Livet"
+        "notes": "Written-By K\xE2le*"
+      3:
+        "vinyl": "A4"
+        "duration": "3:28"
+        "title":
+          "greenlandic": "Sume"
+          "danish": "Hvor?"
+        "notes": "Written-By Mailk*, P\xEAre*"
+      4:
+        "vinyl": "A5"
+        "duration": "3:29"
+        "title":
+          "greenlandic": "Sisimiut"
+          "danish": "Sisimiut"
+        "notes": "Written-By K\xE2le*"
+      5:
+        "vinyl": "B1"
+        "duration": "5:50"
+        "title":
+          "greenlandic": "Kal\xE2liuvunga"
+          "danish": "Jeg - Gr\xF8nl\xE6nder"
+        "notes": "Written-By Egon Sikivat, Sume"
+      6:
+        "vinyl": "B2"
+        "duration": "3:00"
+        "title":
+          "greenlandic": "K'augdloringme Igdlinersiorata"
+          "danish": "Nye Spor I Det Lyse"
+        "notes": "Written-By Malik*, P\xEAre*"
+      7:
+        "vinyl": "B3"
+        "duration": "2:37"
+        "title":
+          "greenlandic": "K'ano\u0138 In\xFBguvit"
+          "danish": "Hvordan du end lever"
+        "notes": "Written-By K\xE2le*, Malik*"
+      8:
+        "vinyl": "B4"
+        "duration": "4:03"
+        "title":
+          "greenlandic": "Sikorng\xE2"
+          "danish": "Drivis"
+        "notes": "Written-By Ar\u0138aluk H\xF8egh Bendtsen*, Malik*, P\xEAre*"
+      9:
+        "vinyl": "B5"
+        "duration": "4:34"
+        "title":
+          "greenlandic": "Nuna\u0138arf\xEEt N\xE1par\u0138igdlugit"
+          "danish": "Genrejse"
+        "notes": "Written-By K\xE2le*, Malik*"
+    "crew":
+    - "Malik H\xF8egh": "12-String Acoustic Guitar, Electric Guitar, Vocals"
+    - "Karl Sivertsen, Per Berthelsen": "Acoustic Guitar, Electric Guitar, Vocals"
+    - "Niels Davidsen": "Artwork [Front Drawing]"
+    - "Emil Larsen": "Bass, Vocals"
+    - "Hans Fleischer": "Drums"
+    - "Stig Kreutzfeldt": "Engineer"
+    - "J\xF8rgen Sparre": "Layout"
+    - "Nikolaj Steenstrup": "Mellotron, Percussion"
+    - "Sakio Nielsen": "Organ, Grand Piano"
+    - "Karsten Sommer": "Producer"

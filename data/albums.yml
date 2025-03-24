@@ -38,37 +38,37 @@ albums:
             greenlandic: "Er\u0138igsine\u0138 Sap\u0129narama"
             danish: "Uro"
           duration: "3:10"
-          vinyl: "B1"
+          vinyl: "A6"
       - 07:
           title:
             greenlandic: "Er\u0138as\xFBte\u0138arne\u0138"
             danish: "Bekymring"
           duration: "2:41"
-          vinyl: "B2"
+          vinyl: "B1"
       - 08:
           title:
             greenlandic: "Heimaey Er\u0138aivdlugo"
             danish: "Ode Til Heimaey"
           duration: "4:32"
-          vinyl: "B3"
+          vinyl: "B1"
       - 09:
           title:
             greenlandic: "Imigagssa\u0138"
             danish: "Ildvand"
           duration: "4:39"
-          vinyl: "B4"
+          vinyl: "B3"
       - 10:
           title:
             greenlandic: "Ukia\u0138"
             danish: "Efter\xE5r"
           duration: "5:05"
-          vinyl: "B5"
+          vinyl: "B4"
       - 11:
           title:
             greenlandic: "Nalunaerasuartaut To\u0138uvo\u0138"
             danish: "Telegrafen Er D\xF8d"
           duration: "3:37"
-          vinyl: "B6"
+          vinyl: "B5"
     crew:
       - "Ole H\xF8st": "Alto Saxophone"
       - "P.V. Rasmussen": "Artwork [Backside]"
@@ -159,7 +159,7 @@ albums:
       - "Franz Beckerlee (tracks: A3)": "Synthesizer [Moog]"
       - "Per Berthelsen": "Vocals, Acoustic Guitar"
       - "Malik H\xF8egh": "Vocals, Twelve-String Guitar"
-    description: ""
+    description: "Recorded At: Rosenberg Studio"
   03:
     title: "Sume 3"
     year: 1977
@@ -245,4 +245,4 @@ albums:
       - "Nikolaj Steenstrup": "Mellotron, Percussion"
       - "Sakio Nielsen": "Organ, Grand Piano"
       - "Karsten Sommer": "Producer"
-    description: ""
+    description: "Recorded At: Sweet Silence Studios"

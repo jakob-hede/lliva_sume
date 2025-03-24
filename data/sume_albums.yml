@@ -1,0 +1,102 @@
+albums:
+  - id: 1
+    title: "Sumut"
+    year: 1973
+    cover_image: "sumut_cover.jpg"
+    tracks:
+      - number: 1
+        title_gl: "Inuuneq"
+        title_da: "Livet"
+        duration: "3:45"
+      - number: 2
+        title_gl: "Kikkut Kukkukua"
+        title_da: "Hvem er de skyldige"
+        duration: "3:50"
+      - number: 3
+        title_gl: "Nunaqarfiit"
+        title_da: "Bygderne"
+        duration: "4:16"
+      - number: 4
+        title_gl: "Sume"
+        title_da: "Hvor"
+        duration: "4:05"
+      - number: 5
+        title_gl: "Ukiut 500-t Ingerlanerani"
+        title_da: "Efter 500 års forløb"
+        duration: "3:09"
+      - number: 6
+        title_gl: "Qaammat Sunaana"
+        title_da: "Hvad er det for en måned"
+        duration: "2:29"
+      - number: 7
+        title_gl: "Inuit Nunaat"
+        title_da: "Menneskenes land"
+        duration: "2:59"
+  
+  - id: 2
+    title: "Inuit Nunaat"
+    year: 1974
+    cover_image: "inuit_nunaat_cover.jpg"
+    tracks:
+      - number: 1
+        title_gl: "Inuit Nunaat"
+        title_da: "Menneskenes land"
+        duration: "2:59"
+      - number: 2
+        title_gl: "Nuna Asiilasooq"
+        title_da: "Det forunderlige land"
+        duration: "3:30"
+      - number: 3
+        title_gl: "Sisamanik Ammillit"
+        title_da: "De firbenede"
+        duration: "3:45"
+      - number: 4
+        title_gl: "Takisuumik Ingerlaneq"
+        title_da: "Den lange vandring"
+        duration: "3:15"
+      - number: 5
+        title_gl: "Aqissiaq"
+        title_da: "Rypen"
+        duration: "4:10"
+      - number: 6
+        title_gl: "Sivisunngitsuarannik Naasoq Naagaangami"
+        title_da: "Det kortvarige liv"
+        duration: "4:25"
+
+  - id: 3
+    title: "Sume"
+    year: 1975
+    cover_image: "sume_cover.jpg"
+    tracks:
+      - number: 1
+        title_gl: "Naalagaaffiup pillagaa"
+        title_da: "Straffet af staten"
+        duration: "3:15"
+      - number: 2
+        title_gl: "Qaamaneq qupperneq"
+        title_da: "Lysglimt"
+        duration: "3:40"
+      - number: 3
+        title_gl: "Arnannguaq"
+        title_da: "Lille pige"
+        duration: "4:05"
+      - number: 4
+        title_gl: "Erfalasoqarfik"
+        title_da: "Flagstangen"
+        duration: "3:35"
+      - number: 5
+        title_gl: "Politikki"
+        title_da: "Politik"
+        duration: "2:55"
+      - number: 6
+        title_gl: "Apeqqutaavoq kina"
+        title_da: "Spørgsmålet er hvem"
+        duration: "3:25"
+      - number: 7
+        title_gl: "Aasaq"
+        title_da: "Sommer"
+        duration: "4:15"
+      - number: 8
+        title_gl: "Piumassuseqarneq"
+        title_da: "Vilje"
+        duration: "3:50"
